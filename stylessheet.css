@@ -16,7 +16,7 @@
 .pic{
 	width: 400px;
 	height: 400px;
-	background-image: url("./picture.JPG");
+	background-image: url("picture.JPG");
 	background-position: center;
 	margin-left: 300px;
 }
