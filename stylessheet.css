@@ -1,0 +1,30 @@
+
+/*body{
+	background-image: url("picture.JPG");
+	background-position: center;
+
+}*/
+.empty{
+	height: 100px;
+	width: 100%;
+	background-color: transparent;
+}
+.info{
+	width: 50%;
+	height: 400px;
+}
+.pic{
+	width: 400px;
+	height: 400px;
+	background-image: url("./picture.JPG");
+	background-position: center;
+	background-color: yellow;
+	margin-left: 300px;
+}
+.container{
+	display: flex;
+	padding: 40px;
+}
+.container-fluid{
+	padding: 40px;
+}
